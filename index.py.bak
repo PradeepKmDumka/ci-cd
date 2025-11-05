@@ -1,6 +1,5 @@
 print("Hello");
 print(2+1);
-def hello(name)
+def hello(name):
     print(Hello , name);
-
 hello('Pradeep');
