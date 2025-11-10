@@ -4,4 +4,5 @@ print(2 + 1)
 def hello(name,sirname):
     print("Hello", name , sirname)
 
-hello('Pradeep','dumka')
+hello('Pradeep','dumka');
+print('--------------');
