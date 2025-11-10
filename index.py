@@ -6,5 +6,5 @@ def hello(name,sirname):
 
 hello('Pradeep','dumka');
 print('--------------');
-hello("Pradeep ",'Dumka')
-hello("Yashu ",'Dumka')
+hello("Pradeep ",'Dumka');
+hello("Yashu ",'Dumka');
