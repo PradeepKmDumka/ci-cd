@@ -6,3 +6,4 @@ def hello(name,sirname):
 
 hello('Pradeep','dumka');
 print('--------------');
+hello("Pradeep ",'Dumka')
